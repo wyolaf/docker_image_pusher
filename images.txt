@@ -1,2 +1,2 @@
 alpine
-nacos/nacos-seerver
+nacos/nacos-server:v2.2.3
