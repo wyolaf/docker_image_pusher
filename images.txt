@@ -1,2 +1,2 @@
 alpine
-nacos/nacos-seerver:v2.2.3
+nacos/nacos-seerver
